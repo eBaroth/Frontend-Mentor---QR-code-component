@@ -14,6 +14,8 @@
 
 html, body {
     background-color: var(--Grayishblue);
+    height: 100vh;
+    width: 100%;
 }
 
 .container {
