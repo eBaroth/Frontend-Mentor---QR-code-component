@@ -13,7 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -25,7 +24,7 @@ This is my first challenge from the Frontend Mentor website. Really planning to 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://ebaroth.github.io/Frontend-Mentor---QR-code-component/)
+- Solution URL: [https://ebaroth.github.io/Frontend-Mentor---QR-code-component/]
 
 ## My process
 
@@ -49,7 +48,7 @@ Definitely need to learn how to plan out before coding. Especially regarding how
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/) - Add to go through position absolute again to make sure how to center the container the easy way.
+- [https://developer.mozilla.org/] - Add to go through position absolute again to make sure how to center the container the easy way.
 
 ## Author
 
