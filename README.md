@@ -46,7 +46,7 @@ Also as a first project it was perfect to use all the major things I basically j
 
 ### Continued development
 
-Definitely need to learn how to plan out before coding. especially regarding how to deal with width and weight to reach pixel perfect.
+Definitely need to learn how to plan out before coding. Especially regarding how to deal with width and height to reach pixel perfect.
 
 ### Useful resources
 
