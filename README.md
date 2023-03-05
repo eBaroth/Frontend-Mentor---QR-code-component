@@ -25,8 +25,7 @@ This is my first challenge from the Frontend Mentor website. Really planning to 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://ebaroth.github.io/Frontend-Mentor---QR-code-component/)
 
 ## My process
 
